@@ -1,3 +1,5 @@
 # RoadMap
 
-[https://drive.google.com/file/d/1NaRka6y6y2Te7pvpKJx35sODhd0H4-Dv](https://drive.google.com/file/d/1NaRka6y6y2Te7pvpKJx35sODhd0H4-Dv)
+Here is my 2024 .NET RoadMap to shortly explaing the technologies I had contact with
+
+[https://drive.google.com/file/d/13WgBAiruLvAcMop9vuAMpfxzlmudKZcL/view](https://drive.google.com/file/d/13WgBAiruLvAcMop9vuAMpfxzlmudKZcL/view)
